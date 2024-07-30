@@ -8,7 +8,7 @@ isolation: SERIALIZABLE
 mysql:
   enabled: false
   host: 'localhost:3306'
-  username: 'Pips'
-  password: 'ponnu1981'
+  username: 'root'
+  password: ''
   # Table names are prefixed with ls_
   database: 'minecraft'
