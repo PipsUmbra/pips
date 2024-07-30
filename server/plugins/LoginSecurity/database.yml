@@ -6,9 +6,9 @@
 # Don't change this if you don't know what it means
 isolation: SERIALIZABLE
 mysql:
-  enabled: false
+  enabled: true
   host: 'localhost:3306'
-  username: 'root'
-  password: ''
+  username: 'Pips'
+  password: 'ponnu1981'
   # Table names are prefixed with ls_
   database: 'minecraft'
